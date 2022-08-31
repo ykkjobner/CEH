@@ -1,6 +1,6 @@
 Wordpress user enum:
-try1: wpscan --url http://test.local/ -U jems -P password.txt 
-try 2 
+Command 1: wpscan --url http://test.local/ -U jems -P password.txt 
+Command 2:  wpscan --url http://test.local/ --usernames admin --passwords rockyou.txt 
 
 
 
