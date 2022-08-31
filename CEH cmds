@@ -1,0 +1,17 @@
+Wordpress user enum:
+try1: wpscan --url http://test.local/ -U jems -P password.txt 
+try 2 
+
+
+
+Android:
+Android is a mobile operating system based on a modified version of the Linux kernel and other open source software,
+designed primarily for touchscreen mobile devices such as smartphones and tablets.
+ADB shell
+
+it runs on port 5555
+Commands:
+1. adb connect ip:5555
+2. adb devices  --> In output it should be "connected to device" if not then try again
+3. adb shell
+then use cd, cat commands to navigate
